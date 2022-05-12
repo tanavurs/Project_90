@@ -1,0 +1,83 @@
+body
+{
+	background-image: url("https://i1.wp.com/howtopaintpleinair.com/wp-content/uploads/2015/05/brushstrokes_0001_Layer-11.jpg?resize=600%2C600&ssl=1");
+    background-size:cover ;
+	background-position: center;
+	margin-top: 100px;
+    font-family:'Yomogi', cursive;
+}
+
+	.login_div1
+	{
+		background: rgb(174, 228, 194);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+    .login_div2
+	{
+		background: rgb(228, 186, 174);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#button_adduser{
+    background-color:rgb(134, 105, 151);
+    width:20%;
+    border-radius: 20px;
+    border-style:dotted;
+   font-size:20px;
+   color:white;
+   margin-bottom:30px;
+}
+
+#button_adduser:hover{
+    background-color: rgb(10, 245, 230);
+    color:white;
+    margin-bottom:30px;
+}
+
+h2 {
+    color: rgb(20, 224, 224);
+}
+
+#send_btn{
+    background-color:rgb(117, 195, 255);
+    width:20%;
+    border-radius: 20px;
+    border-style:dotted;
+   font-size:20px;
+   color:white;
+   margin-bottom:30px;
+}
+
+#send_btn:hover{
+    background-color: rgb(10, 245, 230);
+    color:white;
+    margin-bottom:30px;}
